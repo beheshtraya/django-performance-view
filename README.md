@@ -9,6 +9,10 @@ A djano app for showing database queries statistics
 --------------------------------------------------------
 --------------------------------------------------------
 
+sample output:
+
+![alt text](https://raw.githubusercontent.com/beheshtraya/django-performance-view/master/screenshot.png)
+
 
 How to run:
 

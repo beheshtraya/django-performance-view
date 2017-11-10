@@ -1,4 +1,4 @@
-A djano app for showing database queries statistics
+A django app for showing database queries statistics
 
 
 > Profiling requests is done by adding a middlware which save data in RequestProfile
